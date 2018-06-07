@@ -22,7 +22,7 @@ public class Matricula {
         this.curs = curs;
         this.assignatures = assignatures;
     }
-
+//  @return int This returns multiplied of credits and PREUXCREDIT
     public float costMatricula(){
 
         float cost = 0;

@@ -1,4 +1,9 @@
 import java.util.ArrayList;
+/*
+*  @author Ana Escudero
+*  @version 0.1.3
+*  @since 07/07/2018
+* */
 
 public class Assignatura {
     public long id = 0;
